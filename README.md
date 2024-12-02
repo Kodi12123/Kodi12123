@@ -9,10 +9,14 @@ Cybersecurity Engineer
 - 🌟 Currently exploring advanced cybersecurity techniques and contributing to open-source projects.  
 - 📚 Learning C++ and enhancing my programming skills.  
 - 🎯 Let’s connect and collaborate on projects that make a difference!  
-📫 How to reach me :
- <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/kodeeswaran-a-s-65bbaa25a)
+📫 How to reach me : **kodeeswaranas503@gmail.com**
 - 😄 Pronouns: HackKode
-- ⚡ Fun fact: I know Japanese.
+- ⚡ Fun fact: Hack>>Code>>Repeat.
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="linkedin.com/in/kodeeswaran-a-s-65bbaa25a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberspartan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maverick__vibzz?igsh=MXNrZmwxd3o4M2ZqOQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthithehacker" height="30" width="40" /></a>
+</p>
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
