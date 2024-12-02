@@ -6,7 +6,6 @@ Cybersecurity Engineer
 🚀 Cybersecurity Enthusiast | Penetration Tester | Engineering Student  
 💻 Passionate about solving complex problems, securing systems.  
 🔐 Skilled in ethical hacking, vulnerability assessments.  
-🎯 Let’s connect and collaborate on projects that make a difference!  
 -📫 How to reach me :
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/in/kodeeswaran-a-s-65bbaa25a)
 - 😄 Pronouns: HackKode
