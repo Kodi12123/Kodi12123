@@ -29,7 +29,7 @@ CyberSecurity Engineer
 <h3 align="left">IDE and Tools I Use  :</h3>
 <p>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img height="50" width="50" src="https://img.icons8.com/?size=80&id=muqMY2QA2VIG&format=png"/>
+<img height="50" width="50" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/kalilinux-p12taakph0re2uh7nrwzib.png/kalilinux-zmtwzcvv6yqdbudyh97d4.png?_a=DAJFJtWIZAAC"/>
 </p>
 
 
