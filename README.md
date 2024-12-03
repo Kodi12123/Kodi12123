@@ -1,9 +1,9 @@
-## Hi there 👋 It's me Hareesh
+## Hi there 👋 It's me Kodeeswaran
 
-Software Engineer @ Zoho Corporation
+CyberSecurity Engineer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently learning DSA
+- 🔭 Here's my [portfolio](https://kodi1234.neocities.org/portfolio/)                                                 
+- 🌱 I’m currently learning C++,DSA
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
