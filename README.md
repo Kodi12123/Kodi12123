@@ -11,6 +11,7 @@ CyberSecurity Engineer
 - ⚡ Fun fact: **Hack ---> Code ---> Repeat**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://twitter.com/karthithehacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthithehacker" height="30" width="40" /></a>
   <a href="linkedin.com/in/kodeeswaran/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberspartan" height="30" width="40" />
   </a>
