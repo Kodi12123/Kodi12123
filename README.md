@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Kodeeswaran
 
 CyberSecurity Engineer 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/35/58/0d/35580d64b9b883fd0e0678595fc2aefd.gif">
+<img align="right" width="370" height="290" src="https://pin.it/1IowExHeP">
 - 🔭 Here's my [portfolio](https://kodi1234.neocities.org/portfolio/)                                                 
 - 🚀 Cybersecurity Enthusiast | Penetration Tester | Engineering Student
 - 💻 Passionate about problem-solving, system security, and innovation.
