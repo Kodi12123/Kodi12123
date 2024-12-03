@@ -11,7 +11,7 @@ CyberSecurity Engineer
 - ⚡ Fun fact: **Hack ---> Code ---> Repeat**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="linkedin.com/in/kodeeswaran-a-s-65bbaa25a/" target="blank">
+  <a href="linkedin.com/in/kodeeswaran-as65bbaa25a/" target="blank">
     <img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-special/256/linkedin-64.png" height="30" width="40" />
   </a>
   <a href="https://instagram.com/maverick__vibzz" target="blank">
