@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Kodeeswaran 
 
 ### Cybersecurity Engineer
-<img  align="right" width="200" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
+<img  align="right" width="300" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 - 🚀 Cybersecurity Enthusiast | Penetration Tester | Engineering Student  
 - 💻 Passionate about solving complex problems, securing systems, and building innovative solutions.  
 - 🔐 Skilled in ethical hacking, vulnerability assessments, and creating accessible technologies.  
