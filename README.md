@@ -1,7 +1,8 @@
 ## Hi there 👋 It's me Kodeeswaran 
 
 ### Cybersecurity Engineer
-<img align="right" style="max-width: 100%; height: auto;" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+<p align="left"> <a href="https://twitter.com/karthithehacker" target="blank"><img src="https://img.shields.io/twitter/follow/karthithehacker?logo=twitter&style=for-the-badge" alt="karthithehacker" /></a> </p>
 
 - 🔭 Here's my [portfolio](https://kodi1234.neocities.org/portfolio/)                                                 
 - 🚀 Cybersecurity Enthusiast | Penetration Tester | Engineering Student  
