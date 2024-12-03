@@ -11,7 +11,7 @@
 
 
   
-📫 How to reach me: **kodeeswaranas503@gmail.com**  
+  
 - 😄 Pronouns: HackKode  
 - ⚡ Fun fact: Hack>>Code>>Repeat.
 
