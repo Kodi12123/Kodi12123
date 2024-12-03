@@ -26,6 +26,10 @@ CyberSecurity Engineer
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
 </p>
+<h3 align="left">IDE and Tools I Use  :</h3>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img height="50" width="50" src="https://img.icons8.com/ios/50/000000/kali-linux.png"/>
+
 
 
 
