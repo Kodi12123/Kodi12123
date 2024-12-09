@@ -5,7 +5,6 @@ CyberSecurity Engineer
 - 🔭 Here's my [portfolio](https://kodi1234.neocities.org/portfolio/)                                                 
 - 🚀 Cybersecurity Enthusiast | Penetration Tester | Engineering Student
 - 💻 Passionate about problem-solving, system security, and innovation.
-- 🌱 I’m currently learning C++,DSA
 - 📫 How to reach me **kodeeswaranas503@gmail.com**
 - 😄 Pronouns: HackKode
 - ⚡ Fun fact: **Hack ---> Code ---> Repeat**
